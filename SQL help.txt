@@ -1,0 +1,10 @@
+This program is set to run on a locale server.
+See the connection string below:
+
+Server=localhost;Database=master;Trusted_Connection=True;
+
+SQL administration: C:\Program Files\Microsoft SQL Server\160\Setup Bootstrap\Log\20230320_122327
+
+SQL engine: C:\SQL2022\Developer_ENU
+
+Version: C:\Program Files\Microsoft SQL Server\160\SSEI\Resources
